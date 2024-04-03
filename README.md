@@ -8,6 +8,10 @@ This project was an exercise that I found quite challenging, particularly due to
 
 ## Usage:
 
-1. Run the script: `python simpsons_quotes.py`.
-2. Enjoy random quotes from the Simpsons family!
+1. Ensure you have Python 3.x installed on your system. If not, download and install it from [python.org](https://www.python.org/downloads/).
+2. Clone or download this repository to your local machine.
+3. Navigate to the directory containing the `simpsons_quotes.py` file using the command line or terminal.
+4. Run the script by executing the command: `python simpsons_quotes.py`.
+5. Random quotes from the members of the Simpson family will be displayed in the console.
+6. Explore the code to understand how complex dictionaries are used to represent family members and their quotes.
 
