@@ -1,2 +1,8 @@
-# Simpson-Family-Quotes-Generator
-Generate random quotes from the beloved Simpson family members, including Homer, Marge, Bart, Lisa, and Maggie. Run the script and enjoy iconic lines from each family member!
+# Simpson Family Quotes Generator
+
+This Python script generates random quotes from the members of the Simpson family, including Homer, Marge, Bart, Lisa, and Maggie.
+
+## Usage:
+
+1. Run the script: `python simpsons_quotes.py`.
+2. Enjoy random quotes from the Simpsons family!
